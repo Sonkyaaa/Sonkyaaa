@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sonkyaaa
+- 👋 Hi, I’m @Sankett
 - 👀 I’m interested in programming & coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
